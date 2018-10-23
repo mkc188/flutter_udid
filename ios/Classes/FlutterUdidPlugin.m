@@ -1,5 +1,5 @@
 #import "FlutterUdidPlugin.h"
-#import <flutter_udid/flutter_udid-Swift.h>
+#import "SwiftFlutterUdidPlugin.swift"
 
 @implementation FlutterUdidPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
